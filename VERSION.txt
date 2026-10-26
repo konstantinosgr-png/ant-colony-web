@@ -1,4 +1,4 @@
-v16
-ANT8 save v8
-built 2026-10-26 17:48 EET
+v17
+ANT8 save v9
+built 2026-10-26 18:53 EET
 Godot 4.7.2 web nothreads + AntSim wasm
